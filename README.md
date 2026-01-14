@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Rohan 🥷🏻 and I'm a MERN Stack Developer, from India</p>
+<h3 align="left">My name is Rohan 🥷🏻 and I'm a MERN Stack Developer, from India</h3>
 
 ###
 
